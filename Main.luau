@@ -1,3 +1,5 @@
+-- Start
+
 -- Confing
 if game.PlaceId == 189707 then
 	local Workspace=game:GetService("Workspace")
