@@ -1,4 +1,5 @@
 -- Start
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luayrbx-afk/Shaders/refs/heads/main/Logic.luau"))()
 
 -- Confing
 if game.PlaceId == 189707 then
