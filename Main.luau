@@ -1,6 +1,5 @@
 -- Start
 loadstring(game:HttpGet("https://raw.githubusercontent.com/luayrbx-afk/Shaders/refs/heads/main/Logic.luau"))()
-
 -- Confing
 if game.PlaceId == 189707 then
 	local Workspace=game:GetService("Workspace")
@@ -56,3 +55,5 @@ if game.PlaceId == 189707 then
 
 	print("✓ Configured")
 end
+-- debug
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luayrbx-afk/Shaders/refs/heads/main/Debug.lua"))()
